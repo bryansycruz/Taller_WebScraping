@@ -18,4 +18,4 @@ pip install pandas
 ```
 ## 📁 Información adicional
 
-Puedes encontrar más detalles y el desarrollo completo del taller en el archivo Jupyter Notebook llamado web_scraping.ipynb.
+Puedes encontrar más detalles y el desarrollo completo del taller en el archivo Jupyter Notebook llamado *web_scraping.ipynb*.
